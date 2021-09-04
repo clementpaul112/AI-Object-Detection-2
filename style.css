@@ -1,0 +1,16 @@
+h4
+{
+    color: white;
+}
+
+input
+{
+    width: 500px;
+}
+
+canvas
+{
+    border-radius: 20px;
+    border: 5px solid white;
+    margin-top: 20px;
+}
